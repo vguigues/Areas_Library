@@ -1,0 +1,19 @@
+
+The Matlab library computes the density of the distance to a random
+variable uniformly distributed in some sets and the area
+of intersection of disks and balls with those sets.
+
+All necessary files to run the functions of the library
+are in folders Areas\Library and its subfolder
+Examples which contains files to run the main functions
+on examples. No external library is needed.
+
+If the folder Areas\Libary is copied in folder
+C:\Users\user\_name, before using the library, 
+update the path  in Matlab with commands:
+
+addpath 'C:\Users\user_name\Areas_Libary'
+addpath 'C:\Users\user_name\Areas_Libary\Examples'
+
+
+
